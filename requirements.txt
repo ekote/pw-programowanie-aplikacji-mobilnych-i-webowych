@@ -1,0 +1,7 @@
+gevent==1.4.0
+greenlet==0.4.15
+SimpleWebSocketServer==0.1.1
+six==1.13.0
+websocket==0.2.1
+websocket-client==0.56.0
+websockets==8.1
